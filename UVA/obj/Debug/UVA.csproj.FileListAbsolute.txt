@@ -1,0 +1,7 @@
+D:\Stenly\01Kuliah\6. Semester 6\06. Web Programming dengan ASP.Net\UVA\UVA\bin\UVA.dll
+D:\Stenly\01Kuliah\6. Semester 6\06. Web Programming dengan ASP.Net\UVA\UVA\bin\UVA.pdb
+D:\Stenly\01Kuliah\6. Semester 6\06. Web Programming dengan ASP.Net\UVA\UVA\bin\Newtonsoft.Json.dll
+D:\Stenly\01Kuliah\6. Semester 6\06. Web Programming dengan ASP.Net\UVA\UVA\bin\Newtonsoft.Json.xml
+D:\Stenly\01Kuliah\6. Semester 6\06. Web Programming dengan ASP.Net\UVA\UVA\obj\Debug\UVA.csprojResolveAssemblyReference.cache
+D:\Stenly\01Kuliah\6. Semester 6\06. Web Programming dengan ASP.Net\UVA\UVA\obj\Debug\UVA.dll
+D:\Stenly\01Kuliah\6. Semester 6\06. Web Programming dengan ASP.Net\UVA\UVA\obj\Debug\UVA.pdb
