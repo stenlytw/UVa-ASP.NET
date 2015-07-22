@@ -57,7 +57,7 @@ namespace UVA
         {
             using (var w = new NoKeepAlivesWebClient())
             {
-                var json_data = string.Empty; ;
+                var json_data = string.Empty;
                 json_data = w.DownloadString(url);
                 return JsonConvert.DeserializeObject(json_data);
             }
